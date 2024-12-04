@@ -1,23 +1,5 @@
 
 
-<p>
-    <a href="https://github.com/MagdaCzapiewska"><strong>Magdalena Czapiewska</strong></a>
-    ·
-    <a href="https://github.com/Klosiu889"><strong>Jakub Kłos</strong></a>
-    ·
-    <a href="https://github.com/jk438520"><strong>Jakub Kołaczyński</strong></a>
-    ·
-    <a href="https://github.com/wojtek-rz"><strong>Wojciech Rzepliński</strong></a>
-</p>
-
-# Android minesweeper game
-
-[![Build](https://github.com/jk438520/team777-minesweeper/actions/workflows/android.yml/badge.svg)](https://github.com/jk438520/team777-minesweeper/actions/workflows/android.yml)
-[![Tests](https://github.com/jk438520/team777-minesweeper/actions/workflows/test.yml/badge.svg)](https://github.com/jk438520/team777-minesweeper/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/jk438520/team777-minesweeper/branch/main/graph/badge.svg?token=1GOF3DNS2O)](https://codecov.io/gh/jk438520/team777-minesweeper)
-[![Lint](https://github.com/jk438520/team777-minesweeper/actions/workflows/lint.yml/badge.svg)](https://github.com/jk438520/team777-minesweeper/actions/workflows/lint.yml)
-
-
 ## Gradle commands
 
 ### Build
